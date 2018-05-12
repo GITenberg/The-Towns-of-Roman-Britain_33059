@@ -1,0 +1,27 @@
+_repo: The-Towns-of-Roman-Britain_33059
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bevan, J. O. (James Oliver)
+    alias: Bevan, James Oliver
+    gutenberg_agent_id: '36182'
+    url: http://www.gutenberg.org/2009/agents/36182
+description: ''
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33059'
+  lccn: '17031911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Antiquities, Roman'
+- !lcsh 'Cities and towns -- Great Britain'
+- !lcc 'DA'
+title: The Towns of Roman Britain
+url: http://www.gutenberg.org/ebooks/33059
